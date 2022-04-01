@@ -1,0 +1,40 @@
+
+body{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align:center;
+}
+h1{
+    text-align: center;
+    font-size :50px; 
+    color:purple
+
+}
+
+tr{
+    border: 2px solid black;
+    background-color: aqua;
+    border-style:dotted;
+    
+}
+th{
+    border: 2px solid black;
+    background-color:lavender;
+    border-style:dotted;
+    font-size: 40px;
+    color: blue;
+    
+}
+ table{
+     border: 3px  solid gray;
+     background-color: aqua;
+     border-style:dotted;
+ }
+ td{
+    border: 2px solid black;
+    background-color: aqua;
+    border-style:dotted;
+    font-size: 20px;
+    color: maroon;
+
+ }
+
